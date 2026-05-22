@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    font-family: 'Inter', sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: 'Noto Serif', serif;
+  }
+
+  ::selection {
+    background-color: #d9e2ff;
+    color: #001946;
+  }
+}
+
+@layer utilities {
+  .font-label {
+    font-family: 'Public Sans', sans-serif;
+  }
+}
