@@ -25,7 +25,8 @@ export default function Navbar({ activePage = 'Home' }) {
   }
 
   return (
-    <nav className="fixed top-0 w-full z-50 bg-surface/80 backdrop-blur-md">
+    <nav className="fixed top-0 w-full z-50 bg-white/10 backdrop-blur-xl border-b border-white/10 shadow-lg">
+
       <div className="flex justify-between items-center w-full px-8 py-4 max-w-screen-2xl mx-auto">
         {/* Logo */}
         <span className="font-headline text-2xl font-bold text-on-surface">
