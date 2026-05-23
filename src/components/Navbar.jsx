@@ -1,5 +1,6 @@
 import { useState } from 'react'
 import { Menu, X } from 'lucide-react'
+import logo from '../assets/logo.png'
 
 export default function Navbar({ activePage = 'Home' }) {
   const [mobileOpen, setMobileOpen] = useState(false)
@@ -29,9 +30,12 @@ export default function Navbar({ activePage = 'Home' }) {
 
       <div className="flex justify-between items-center w-full px-8 py-4 max-w-screen-2xl mx-auto">
         {/* Logo */}
-        <span className="font-headline text-2xl font-bold text-on-surface">
-          Expert Security
-        </span>
+        <a href="#" className="flex items-center gap-1">
+          <img src={logo} alt="Expert Security Logo" className="h-8 w-auto object-contain scale-150" />
+          <span className="font-headline text-2xl font-bold text-on-surface">
+            Expert Security
+          </span>
+        </a>
 
         {/* Desktop Nav Links */}
         <div className="hidden md:flex items-center gap-8">

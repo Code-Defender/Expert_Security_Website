@@ -1,15 +1,15 @@
 export default function ServicesHero() {
   return (
-    <header className="pt-32 pb-16 px-8 max-w-screen-2xl mx-auto">
-      <div className="bg-surface-container-lowest rounded-xl p-12 relative overflow-hidden">
+    <header className="pt-32 pb-16 px-4 sm:px-8 max-w-screen-2xl mx-auto">
+      <div className="bg-surface-container-lowest rounded-xl p-6 sm:p-10 md:p-12 relative overflow-hidden">
         <div className="max-w-2xl relative z-10">
           <span className="inline-block px-3 py-1 bg-tertiary-fixed text-on-tertiary-fixed text-xs font-bold font-label tracking-widest uppercase mb-4">
             Elite Protection
           </span>
-          <h1 className="font-headline text-5xl md:text-6xl text-on-surface leading-tight mb-6">
+          <h1 className="font-headline text-3xl sm:text-5xl md:text-6xl text-on-surface leading-tight mb-6">
             Comprehensive Protection for Global Interests.
           </h1>
-          <p className="text-on-surface-variant text-lg font-body max-w-xl leading-relaxed">
+          <p className="text-on-surface-variant text-sm sm:text-base md:text-lg font-body max-w-xl leading-relaxed">
             A multi-layered approach to security, combining high-authority manned guarding with state-of-the-art technical surveillance systems.
           </p>
         </div>

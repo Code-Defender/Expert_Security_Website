@@ -4,7 +4,7 @@ export default function ContactForm() {
   }
 
   return (
-    <div className="bg-surface-container-lowest p-10 rounded-xl text-left">
+    <div className="bg-surface-container-lowest p-6 sm:p-10 rounded-xl text-left">
       <h2 className="font-headline text-3xl font-bold mb-2 text-on-surface">
         Inquiry Form
       </h2>

@@ -4,7 +4,7 @@ export default function OfficeLocations() {
   return (
     <div className="flex flex-col gap-8 text-left h-full">
       {/* Reach Us Detail List */}
-      <div className="bg-surface-container-lowest p-8 rounded-xl">
+      <div className="bg-surface-container-lowest p-6 sm:p-8 rounded-xl">
         <h3 className="font-headline text-xl font-bold mb-6 text-on-surface">
           Direct Channels
         </h3>
@@ -40,7 +40,7 @@ export default function OfficeLocations() {
       </div>
 
       {/* Map Placeholder */}
-      <div className="flex-grow rounded-xl overflow-hidden relative min-h-[300px]">
+      <div className="flex-grow rounded-xl overflow-hidden relative min-h-[250px] sm:min-h-[300px]">
         <img
           className="w-full h-full object-cover grayscale opacity-80"
           src="https://lh3.googleusercontent.com/aida-public/AB6AXuBGpKxeemcrU5jbp4L1fCthjxLCl12DnZTRzx5km40KZ8ahfriwBUBDHDDwSY_kpb4KDg438wmuU2f4Yp4Zidd5n1BDpZksH5c32i3RljNMVLt2d5PyYuNjBBWj7v8KNgx_IEkyMAPHhGO755pnAtmV1r_z6eUKtxHzVMefAUHLpnMbljoLgdK-1dJXXT3jHixeozf66Hj-DNsepNbWBEDCYtkAbZWI3Uy26_5mrEOcWb5ssl5D-LkG9mfaUtLkBxQg0dH0e5xb8HWC"
