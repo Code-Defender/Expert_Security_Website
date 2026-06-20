@@ -15,7 +15,7 @@ export default function OfficeLocations() {
               <p className="font-label text-xs font-bold uppercase tracking-wider text-outline">
                 General Inquiries
               </p>
-              <p className="font-body text-on-surface">+11 7446 875651</p>
+              <p className="font-body text-on-surface">+44 7446 875651</p>
             </div>
           </div>
           <div className="flex items-center gap-4">

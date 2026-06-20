@@ -35,7 +35,7 @@ export default function ContactInfo() {
             Emergency Response Line
           </p>
           <p className="text-tertiary font-headline text-xl font-bold">
-            +11 7446 875651
+            +44 7446 875651
           </p>
         </div>
       </div>
