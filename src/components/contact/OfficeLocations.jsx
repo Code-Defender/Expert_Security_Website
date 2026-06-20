@@ -15,7 +15,7 @@ export default function OfficeLocations() {
               <p className="font-label text-xs font-bold uppercase tracking-wider text-outline">
                 General Inquiries
               </p>
-              <p className="font-body text-on-surface">+44 (0) 20 7946 0500</p>
+              <p className="font-body text-on-surface">+11 7446 875651</p>
             </div>
           </div>
           <div className="flex items-center gap-4">
@@ -24,7 +24,7 @@ export default function OfficeLocations() {
               <p className="font-label text-xs font-bold uppercase tracking-wider text-outline">
                 Secure Email
               </p>
-              <p className="font-body text-on-surface">ops@expert-security.com</p>
+              <p className="font-body text-on-surface">rana.waqas@expertsecurity.online</p>
             </div>
           </div>
           <div className="flex items-center gap-4">
@@ -33,7 +33,7 @@ export default function OfficeLocations() {
               <p className="font-label text-xs font-bold uppercase tracking-wider text-outline">
                 Compliance &amp; Legal
               </p>
-              <p className="font-body text-on-surface">compliance@expert-security.com</p>
+              <p className="font-body text-on-surface">rana.waqas@expertsecurity.online</p>
             </div>
           </div>
         </div>
@@ -44,7 +44,7 @@ export default function OfficeLocations() {
         <img
           className="w-full h-full object-cover grayscale opacity-80"
           src="https://lh3.googleusercontent.com/aida-public/AB6AXuBGpKxeemcrU5jbp4L1fCthjxLCl12DnZTRzx5km40KZ8ahfriwBUBDHDDwSY_kpb4KDg438wmuU2f4Yp4Zidd5n1BDpZksH5c32i3RljNMVLt2d5PyYuNjBBWj7v8KNgx_IEkyMAPHhGO755pnAtmV1r_z6eUKtxHzVMefAUHLpnMbljoLgdK-1dJXXT3jHixeozf66Hj-DNsepNbWBEDCYtkAbZWI3Uy26_5mrEOcWb5ssl5D-LkG9mfaUtLkBxQg0dH0e5xb8HWC"
-          alt="High-contrast digital map of London's financial district with HQ marked"
+          alt="High-contrast digital map of Luton with HQ marked"
         />
         <div className="absolute inset-0 flex items-center justify-center">
           <div className="bg-surface/90 backdrop-blur-md p-4 rounded-lg shadow-xl flex items-center gap-3 border border-outline-variant/20">

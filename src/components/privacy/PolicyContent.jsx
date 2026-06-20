@@ -189,11 +189,11 @@ export default function PolicyContent() {
                 <div className="space-y-4 font-body">
                   <div className="flex items-center gap-4">
                     <AtSign size={20} />
-                    <span className="font-bold">privacy@expertsecurity.global</span>
+                    <span className="font-bold">rana.waqas@expertsecurity.online</span>
                   </div>
                   <div className="flex items-center gap-4">
                     <MapPin size={20} />
-                    <span>Corporate HQ: One Security Plaza, London, EC2V 6AA</span>
+                    <span>Corporate HQ: 39 The Shires, Old Bedford Road, Luton, LU2 7QA</span>
                   </div>
                 </div>
                 <a

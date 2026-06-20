@@ -13,11 +13,11 @@ export default function ContactInfo() {
             Head Office
           </h3>
           <p className="text-on-surface-variant font-body text-sm leading-relaxed">
-            Suite 400, Global Security Plaza
+            39 The Shires
             <br />
-            Financial District, London
+            Old Bedford Road, Luton
             <br />
-            EC2V 7HQ, United Kingdom
+            LU2 7QA, United Kingdom
           </p>
         </div>
       </div>
@@ -35,7 +35,7 @@ export default function ContactInfo() {
             Emergency Response Line
           </p>
           <p className="text-tertiary font-headline text-xl font-bold">
-            +44 (0) 20 7946 0101
+            +11 7446 875651
           </p>
         </div>
       </div>

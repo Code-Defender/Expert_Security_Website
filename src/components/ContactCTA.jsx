@@ -61,15 +61,15 @@ export default function ContactCTA() {
           <div className="space-y-6">
             <div className="flex items-center gap-4">
               <Phone size={20} />
-              <span className="font-label">+44 (0) 800 123 4567</span>
+              <span className="font-label">+11 7446 875651</span>
             </div>
             <div className="flex items-center gap-4">
               <Mail size={20} />
-              <span className="font-label">info@expertsecurity.co.uk</span>
+              <span className="font-label">rana.waqas@expertsecurity.online</span>
             </div>
             <div className="flex items-center gap-4">
               <MapPin size={20} />
-              <span className="font-label">London &amp; Manchester, UK</span>
+              <span className="font-label">Luton, UK</span>
             </div>
           </div>
         </div>
